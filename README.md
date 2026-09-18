@@ -2,6 +2,10 @@
 
 Use this repository as a **template** for your data pipeline project. You will build a pipeline that takes raw NYC taxi trip records and turns them into a processed result. The project is open-ended: the brief sets the goal, and the structure, tools, and implementation choices are yours to make. Create pull requests in your own copy even if you are working alone, and use them to track your progress.
 
+# My Project
+
+Process and Results: [Project Report](PROJECT_REPORT.md)
+
 ## Learning Objectives
 
 By the end of this repository, you should be able to:
